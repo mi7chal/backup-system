@@ -1,0 +1,8 @@
+{
+  "LOGS_FILE_PATH": "/var/logs/KopiaZapasowa/logs.log",
+  "LOGS_FILE_NAME": "logs.log",
+  "SYSTEM_LOGS_DIR_PATH": "/var/logs/",
+  "LOGS_DIR_PATH": "/var/logs/KopiaZapasowa/",
+  "LOGS_DIR_NAME": "KopiaZapasowa",
+  "ERROR_FILE_NAME": "error_logs.log"
+}
